@@ -46,7 +46,7 @@
   
 First of all, clone this repository to your local machine and access the main dir via the following command:
 ```
-git clone https://github.com/optimatch/optimatch.git
+git clone https://github.com/awsm-research/DeepVulMatch.git
 cd optimatch
 ```
 
@@ -154,10 +154,7 @@ pip install -r requirements.txt
   
   </details>
      
-## License 
-<a href="https://github.com/awsm-research/optimatch/blob/main/LICENSE">MIT License</a>
-
 ## Citation
 ```bash
-under review at TSE
+under review at IEEE TDSC
 ```
