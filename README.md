@@ -2,7 +2,7 @@
 <img src="img/cover_1.png">
 <img src="img/cover_2.png">
   
-# <br> Optimal Transport for Vulnerability Detection <br> (Replication Package)
+# <br> DeepVulMatch: Learning and Matching Latent Vulnerability Representations for Dual-Granularity Vulnerability Detection <br> (Replication Package)
 
 </div>
 
@@ -10,9 +10,9 @@
 <p align="center">
   <img src="img/logo.png" width="200" height="200">
   </a>
-  <h3 align="center">OPTIMATCH</h3>
+  <h3 align="center">DeepVulMatch</h3>
   <p align="center">
-    Optimal Transport for Vulnerability Detection
+    Learning and Matching Latent Vulnerability Representations for Dual-Granularity Vulnerability Detection
   </p>
 </p>
      
