@@ -30,9 +30,6 @@
         </ul>
     </li>
     <li>
-      <a href="#license">License</a>
-    </li>
-    <li>
       <a href="#citation">Citation</a>
     </li>
   </ol>
