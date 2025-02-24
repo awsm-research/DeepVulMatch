@@ -153,5 +153,5 @@ pip install -r requirements.txt
      
 ## Citation
 ```bash
-under review at IEEE TDSC
+under review at IEEE TR
 ```
