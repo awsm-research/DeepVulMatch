@@ -153,5 +153,11 @@ pip install -r requirements.txt
      
 ## Citation
 ```bash
-under review at IEEE TR
+@article{fu2025deepvulmatch,
+  title={DeepVulMatch: Learning and Matching Latent Vulnerability Representations for Dual-Granularity Vulnerability Detection},
+  author={Fu, Michael and Le, Trung and Nguyen, Van and Tantithamthavorn, Chakkrit and Phung, Dinh},
+  journal={IEEE Transactions on Reliability},
+  year={2025},
+  publisher={IEEE}
+}
 ```
